@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="human.js" type="text/javascript"></script>
+<script src="namegenerator.js" type="text/javascript"></script>
+<title>Name Generator</title>
+</head>
+<body>
+<table>
+<tr>
+<td>
+<form>
+<p>Sex</p>
+<input type="radio" name="sex" value="male">Male<br>
+<input type="radio" name="sex" value="female">Female<br>
+<input type="radio" name="sex" value="undefined">Undefined<br>
+</form>
+</td><td></td>
+</tr>
+<tr>
+<td>
+<p>Race</p>
+<select id="race">
+  <option value="human">Human</option>
+  <option value="elf">Elf</option>
+  <option value="dwarf">Dwarf</option>
+  <option value="orc">Orc</option>
+  <option value="halfling">Halfling</option>
+  <option value="gnome">Gnome</option>
+  <option value="aasimars">Aasimars</option>
+  <option value="catfolk">Catfolk</option>
+  <option value="Dhampir">Dhampir</option>
+  <option value="Drow">Drow</option>
+  <option value="Fetchling">Fetchling</option>
+  <option value="Goblins">Goblins</option>
+  <option value="Hobgoblins">Hobgoblins</option>
+  <option value="Ifrits">Ifrits</option>
+  <option value="Kobold">Kobold</option>
+  <option value="Oreads">Oreads</option>
+  <option value="ratfolk">Ratfolk</option>
+  <option value="sylph">Sylph</option>
+  <option value="tengu">Tengu</option>
+  <option value="tiefling">Tiefling</option>
+  <option value="undine">Undine</option>
+  <option value="changeling">Changeling</option>
+  <option value="duergar">Duergar</option>
+  <option value="gillmen">Gillmen</option>
+  <option value="gripplis">Gripplis</option>
+  <option value="kitsune">Kitsune</option>
+  <option value="merfolk">Merfolk</option>
+  <option value="nagaji">Nagaji</option>
+  <option value="samsarans">Samsarans</option>
+  <option value="strix">Strix</option>
+  <option value="sulis">Sulis</option>
+  <option value="svirfneblins">Svirfneblins</option>
+  <option value="vanaras">Vanaras</option>
+  <option value="vishkanyas">Vishkanyas</option>
+  <option value="wayangs">Wayangs</option>
+  <option value="naga">Naga</option>
+  <option value="barbarian">Barbarian</option>
+  <option value="centaur">Centaur</option>
+</select>
+</td><td></td>
+</tr>
+<tr>
+<td>
+<p>Importance</p>
+<select id="importance">
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+</select>
+</td><td></td>
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td><input type="button" value="Submit" id="Submit" onclick="findName()">
+</tr>
+<tr>
+    <td class="rtAlign">First Name:</td>
+    <td><input type="text" id="fName" size="30"></td>
+</tr>
+<tr>
+    <td class="rtAlign">Last Name:</td>
+    <td><input type="text" id="lName" size="30"></td>
+</tr>
+</table>
+</body>
+</html>

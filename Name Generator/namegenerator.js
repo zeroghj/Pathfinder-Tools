@@ -19,6 +19,12 @@ switch (race){
  case "Human":
 	getName(human,race,sex,importance);
 	break;
+ case "Elf":
+	getName(elf,race,sex,importance);
+	break;
+default:
+	getName(human,race,sex,importance);
+	break;
 
 }
 }

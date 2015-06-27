@@ -22,6 +22,21 @@ switch (race){
  case "Elf":
 	getName(elf,race,sex,importance);
 	break;
+ case "Orc":
+	getName(orc,race,sex,importance);
+	break;
+ case "Halfling":
+	getName(halfling,race,sex,importance);
+	break;
+ case "Dwarf":
+	getName(dwarf,race,sex,importance);
+	break;
+case "Gnome":
+	getName(gnome,race,sex,importance);
+	break;
+case "Aasimar":
+	getName(human,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

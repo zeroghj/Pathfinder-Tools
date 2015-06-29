@@ -37,6 +37,18 @@ case "Gnome":
 case "Aasimar":
 	getName(human,race,sex,importance);
 	break;
+case "Catfolk":
+	getName(catfolk,race,sex,importance);
+	break;
+case "Dhampir":
+	getName(human,race,sex,importance);
+	break;
+case "Drow":
+	getName(drow,race,sex,importance);
+	break;
+case "Fetchling":
+	getName(fetchling,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

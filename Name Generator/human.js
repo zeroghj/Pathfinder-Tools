@@ -102,6 +102,21 @@ var human = '{"firstM":['+
 	'{"Name":"Khemed"}, '+
 	'{"Name":"Luth"}, '+
 	'{"Name":"Boromir"}, '+
+	'{"Name":"Aja"}, '+
+	'{"Name":"Denat"}, '+
+	'{"Name":"Efit"}, '+
+	'{"Name":"Elum"}, '+
+	'{"Name":"Jalij"}, '+
+	'{"Name":"Maqej"}, '+
+	'{"Name":"Urah"}, '+
+	'{"Name":"Bofif"}, '+
+	'{"Name":"Andanan"}, '+
+	'{"Name":"Loqif"}, '+
+	'{"Name":"Jeydavu"}, '+
+	'{"Name":"Mentys"}, '+
+	'{"Name":"Oret"}, '+
+	'{"Name":"Sithundan"}, '+
+	'{"Name":"Urtar"}, '+	
 	'{"Name":"Yvon"}'+
 	'],' +
  '"firstF":['+
@@ -202,7 +217,19 @@ var human = '{"firstM":['+
 	'{"Name":"Ondrea"}, '+
 	'{"Name":"Rhialla"}, '+
 	'{"Name":"Valtyra"}, '+
+	'{"Name":"Alayi"}, '+
+	'{"Name":"Etwa"}, '+
+	'{"Name":"Maqan"}, '+
+	'{"Name":"Qari"}, '+
+	'{"Name":"Sami"}, '+
+	'{"Name":"Zetaya"}, '+
 	'{"Name":"Stacy"}, '+
+	'{"Name":"Besthana"}, '+
+	'{"Name":"Echane"}, '+
+	'{"Name":"Ghatiyara"}, '+
+	'{"Name":"Irice"}, '+
+	'{"Name":"Nysene"}, '+
+	'{"Name":"Pashe"}, '+
 	'{"Name":"Catherina"}'+
 	'],' +
 '"firstU":['+
@@ -347,6 +374,11 @@ var human = '{"firstM":['+
 	'{"Name":"Rein"},'+
 	'{"Name":"Hornraven"},'+
 	'{"Name":"Highwind"},'+
+	'{"Name":"Fireborn"},'+
+	'{"Name":"Ragnaros"},'+
+	'{"Name":"Innerflame"},'+
+	'{"Name":"Rockheart"},'+
+	'{"Name":"Stoneskin"},'+
 	'{"Name":"Oblige"}'+
 	'],'+
 '"last5":['+
@@ -402,6 +434,11 @@ var human = '{"firstM":['+
 	'{"Name":"Helder"},'+
 	'{"Name":"Amblecrown"},'+
 	'{"Name":"Horton"},'+
+	'{"Name":"Torchwood"},'+
+	'{"Name":"Fletcher"},'+
+	'{"Name":"Stonefield"},'+
+	'{"Name":"Earthmender"},'+
+	'{"Name":"Amber"},'+
 	'{"Name":"Soreign"}'+
 	'],'+
 '"last1":['+

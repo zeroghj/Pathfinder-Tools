@@ -49,6 +49,21 @@ case "Drow":
 case "Fetchling":
 	getName(fetchling,race,sex,importance);
 	break;
+case "Goblin":
+	getName(goblin,race,sex,importance);
+	break;
+case "Hobgoblin":
+	getName(hobgoblin,race,sex,importance);
+	break;
+case "Ifrit":
+	getName(human,race,sex,importance);
+	break;
+case "Kobold":
+	getName(kobold,race,sex,importance);
+	break;
+case "Oread":
+	getName(human,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

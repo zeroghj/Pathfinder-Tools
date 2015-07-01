@@ -116,7 +116,20 @@ var human = '{"firstM":['+
 	'{"Name":"Mentys"}, '+
 	'{"Name":"Oret"}, '+
 	'{"Name":"Sithundan"}, '+
-	'{"Name":"Urtar"}, '+	
+	'{"Name":"Urtar"}, '+
+	'{"Name":"Akaash"}, '+
+	'{"Name":"Eydan"}, '+	
+	'{"Name":"Hunuun"}, '+	
+	'{"Name":"Siival"}, '+	
+	'{"Name":"Vasaam"}, '+
+	'{"Name":"Aven"}, '+
+	'{"Name":"Dharak"}, '+
+	'{"Name":"Ghiv"}, '+
+	'{"Name":"Jamash"}, '+
+	'{"Name":"Maakor"}, '+
+	'{"Name":"Ondir"}, '+
+	'{"Name":"Radid"}, '+
+	'{"Name":"Shiradahz"}, '+
 	'{"Name":"Yvon"}'+
 	'],' +
  '"firstF":['+
@@ -230,6 +243,21 @@ var human = '{"firstM":['+
 	'{"Name":"Irice"}, '+
 	'{"Name":"Nysene"}, '+
 	'{"Name":"Pashe"}, '+
+	'{"Name":"Inam"}, '+
+	'{"Name":"Keeya"}, '+
+	'{"Name":"Lissi"}, '+
+	'{"Name":"Nava"}, '+
+	'{"Name":"Radaya"}, '+
+	'{"Name":"Tena"}, '+
+	'{"Name":"Afzara"}, '+
+	'{"Name":"Baarah"}, '+
+	'{"Name":"Calah"}, '+
+	'{"Name":"Iryani"}, '+
+	'{"Name":"Maarin"}, '+
+	'{"Name":"Nylgune"}, '+
+	'{"Name":"Pari"}, '+
+	'{"Name":"Radabeh"}, '+
+	'{"Name":"Urdahna"}, '+
 	'{"Name":"Catherina"}'+
 	'],' +
 '"firstU":['+
@@ -338,6 +366,7 @@ var human = '{"firstM":['+
     '{"Name":"Dundragon"}, '+
 	'{"Name":"Stormwind"},'+
 	'{"Name":"Lorderon"},'+
+	'{"Name":"Seastorm"},'+
 	'{"Name":"Landinius"}'+
 	'],'+
 '"last8":['+
@@ -379,6 +408,10 @@ var human = '{"firstM":['+
 	'{"Name":"Innerflame"},'+
 	'{"Name":"Rockheart"},'+
 	'{"Name":"Stoneskin"},'+
+	'{"Name":"Windwhisperer"},'+
+	'{"Name":"Airlord"},'+
+	'{"Name":"Sealord"},'+
+	'{"Name":"Kraken"},'+
 	'{"Name":"Oblige"}'+
 	'],'+
 '"last5":['+
@@ -439,6 +472,14 @@ var human = '{"firstM":['+
 	'{"Name":"Stonefield"},'+
 	'{"Name":"Earthmender"},'+
 	'{"Name":"Amber"},'+
+	'{"Name":"Windy"},'+
+	'{"Name":"Rain"},'+
+	'{"Name":"Calm"},'+
+	'{"Name":"Whisper"},'+
+	'{"Name":"Lake"},'+
+	'{"Name":"Raindrop"},'+
+	'{"Name":"Ocean"},'+
+	'{"Name":"Sea"},'+
 	'{"Name":"Soreign"}'+
 	'],'+
 '"last1":['+

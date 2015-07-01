@@ -64,6 +64,21 @@ case "Kobold":
 case "Oread":
 	getName(human,race,sex,importance);
 	break;
+case "Ratfolk":
+	getName(ratfolk,race,sex,importance);
+	break;
+case "Sylph":
+	getName(human,race,sex,importance);
+	break;
+case "Tengu":
+	getName(tengu,race,sex,importance);
+	break;
+case "Tiefling":
+	getName(tiefling,race,sex,importance);
+	break;
+case "Undine":
+	getName(human,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

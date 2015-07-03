@@ -118,6 +118,12 @@ case "Vishkanya":
 case "Wayang":
 	getName(wayang,race,sex,importance);
 	break;
+case "Naga":
+	getName(naga,race,sex,importance);
+	break;
+case "Centaur":
+	getName(centaur,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

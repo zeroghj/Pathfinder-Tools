@@ -79,6 +79,45 @@ case "Tiefling":
 case "Undine":
 	getName(human,race,sex,importance);
 	break;
+case "Duergar":
+	getName(duergar,race,sex,importance);
+	break;
+case "Gillmen":
+	getName(gillmen,race,sex,importance);
+	break;
+case "Grippli":
+	getName(grippli,race,sex,importance);
+	break;
+case "Kitsune":
+	getName(kitsune,race,sex,importance);
+	break;
+case "Merfolk":
+	getName(merfolk,race,sex,importance);
+	break;
+case "Nagaji":
+	getName(nagaji,race,sex,importance);
+	break;
+case "Samsaran":
+	getName(samsaran,race,sex,importance);
+	break;
+case "Strix":
+	getName(strix,race,sex,importance);
+	break;
+case "Suli":
+	getName(suli,race,sex,importance);
+	break;
+case "Svirfneblin":
+	getName(svirfneblin,race,sex,importance);
+	break;
+case "Vanara":
+	getName(vanara,race,sex,importance);
+	break;
+case "Vishkanya":
+	getName(vishkanya,race,sex,importance);
+	break;
+case "Wayang":
+	getName(wayang,race,sex,importance);
+	break;
 default:
 	getName(human,race,sex,importance);
 	break;

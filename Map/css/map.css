@@ -1,0 +1,76 @@
+.dot {
+	border-radius: 50%;
+	width: 15px;
+	height: 15px; 
+	background-color: red;
+	z-index:10;
+	position: absolute;
+}
+.mapdot {
+	border-radius: 50%;
+	width: 30px;
+	height: 30px; 
+	background-color: black;
+	z-index:10;
+	position: absolute;
+}
+
+.citydot {
+	border-radius: 50%;
+	width: 20px;
+	height: 20px; 
+	background-color: brown;
+	z-index:10;
+	position: absolute;
+}
+
+.villagedot {
+	border-radius: 50%;
+	width: 10px;
+	height: 10px; 
+	background-color: brown;
+	z-index:10;
+	position: absolute;
+}
+
+.landmarkdot {
+	border-radius: 50%;
+	width: 10px;
+	height: 10px; 
+	background-color: blue;
+	z-index:10;
+	position: absolute;
+}
+
+.title {
+	z-index:10;
+	position: absolute;
+	text-align:center;
+	top:0%;
+	left:40%;
+}
+
+.description {
+	z-index:10;
+	position: absolute;
+	text-align:center;
+	top:25%;
+	left:20%;
+	right:20%;
+}
+
+.imagedescription{
+	z-index:10;
+	position: absolute;
+	text-align:center;
+	top:100%;
+	left:20%;
+	right:20%;
+}
+
+.landmarkimage{
+	position: absolute;
+	text-align:center;
+	top:50%;
+	left:25%;
+}

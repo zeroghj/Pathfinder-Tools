@@ -53,7 +53,7 @@
 .description {
 	z-index:10;
 	position: absolute;
-	text-align:center;
+	text-align:left;
 	top:25%;
 	left:20%;
 	right:20%;
@@ -62,7 +62,7 @@
 .imagedescription{
 	z-index:10;
 	position: absolute;
-	text-align:center;
+	text-align:left;
 	top:100%;
 	left:20%;
 	right:20%;
